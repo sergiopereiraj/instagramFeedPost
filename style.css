@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+.post {
+    background-color: white;
+    width: 600px;
+    height: 600px;
+    margin: 40px auto;    
+}
+.postup {
+    display: flex;
+    width: 100%;
+}
+.postuno {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+.postdos {
+    display: flex;
+ align-items: center;
+padding: 10px 10px;
+width: 2000%;
+}
+.posttres {
+    display: flex;
+    align-content: flex-end;
+padding: 25px 0px 0px 100px;
+width: 80%;
+
+}
+.postmedium img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    display: flex;
+}
+.postdown .postdowndos {
+    display: flex;
+    padding: 5px;
+}
+.postdown .postdowndos .id {
+   display: flex;
+   justify-content: end;
+   width: 90%;
+}
